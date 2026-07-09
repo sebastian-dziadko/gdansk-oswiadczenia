@@ -18,6 +18,8 @@ Jeśli wolisz uruchomić skrypt u siebie na komputerze:
 ```bash
    pip install requests
 Następnie uruchom skrypt:
+
+
 ```bash
    python gdansk2.py
  
